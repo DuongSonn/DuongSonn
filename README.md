@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DuongSonn
 - 🏢 I'm currently a Nodejs developer at [Sotatek](https://www.sotatek.com/)
-- 👀 I’m interested in South Korea, China Drama and Dota2
 - 📫 You can reach me through mail duongson212998@gmail.com
 
 <!---
