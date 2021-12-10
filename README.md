@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuongSonn
-- 🏢 I'm currently a Nodejs developer at [ACheckin](hhttps://acheckin.vn/)
+- 🏢 I'm currently a Nodejs developer at [ACheckin](https://acheckin.vn/)
 - 📫 You can reach me through mail duongson212998@gmail.com
 
 <!---
