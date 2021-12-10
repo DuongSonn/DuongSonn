@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuongSonn
-- 🏢 I'm currently a Nodejs developer at [Sotatek](https://www.sotatek.com/)
+- 🏢 I'm currently a Nodejs developer at [ACheckin](hhttps://acheckin.vn/)
 - 📫 You can reach me through mail duongson212998@gmail.com
 
 <!---
